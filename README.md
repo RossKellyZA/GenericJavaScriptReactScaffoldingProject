@@ -1,6 +1,8 @@
 # GenericJavaScriptReactScaffoldingProject
 Boilerplate React.js Project
 
+The following was built from this tutorial - https://medium.com/@paooolino/a-simple-react-project-setup-for-rapid-application-prototyping-4673cb7c8c4a
+
 Make it your own
 ===========================
 
