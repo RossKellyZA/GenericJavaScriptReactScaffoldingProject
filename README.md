@@ -1,0 +1,2 @@
+# GenericJavaScriptReactScaffoldingProject
+Boilerplate React.js Project
